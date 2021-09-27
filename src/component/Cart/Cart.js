@@ -19,7 +19,7 @@ const Cart = (props) => {
 
     return (
         <div className="cart">
-            <h4><i class="fas fa-user-circle"></i> Speaker Added: {props.cart.length}</h4>
+            <h4><i className="fas fa-user-circle"></i> Speaker Added: {props.cart.length}</h4>
             <br />
             <h5>Total Potential Audience: {total}</h5>
             <p><small>(**Sum of Twitter Followers of the Speakers)</small></p>
