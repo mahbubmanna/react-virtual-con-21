@@ -2,7 +2,6 @@
     display: grid;
     grid-template-columns: 3fr 1fr;
     grid-column-gap: 10px;
-    margin-bottom: 20px;
 }
 
 .cart-container {
