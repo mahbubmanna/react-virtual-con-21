@@ -19,9 +19,9 @@ const Speaker = (props) => {
                     <p><strong>Talk: {topic}</strong></p>
                 </div>
                 <div className="button-container">
-                    <button className="btn-choose btn btn-warning"
+                    <button className="btn-choose btn btn-warning border rounded-pill"
                         onClick={() => props.handleChooseAsSpeaker(props.speaker)}
-                    >Choose as Speaker</button>
+                    ><b>Choose as Speaker</b></button>
                 </div>
             </div>
         </div>

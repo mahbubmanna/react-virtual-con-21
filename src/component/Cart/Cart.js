@@ -1,7 +1,6 @@
 import React from 'react';
 
 import './Cart.css';
-import addedSpeaker from '../addedSpeaker/addedSpeaker';
 
 const Cart = (props) => {
     const { cart } = props;
