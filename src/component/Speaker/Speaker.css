@@ -1,0 +1,19 @@
+.speaker-img{
+    width: 200px;
+    height: 200px;
+
+    border-radius: 50%;
+    margin: auto;
+}
+.speaker-info{
+    background-image: linear-gradient(to bottom right, rgb(173, 187, 231), #f7f7f7);
+    padding-top: 20px;;
+}
+
+.button-container {
+    margin-bottom: 20px;
+}
+
+.btn-choose{
+    background-color: #fdb813;;
+}

@@ -1,0 +1,22 @@
+.header{
+    background-color: #fdb813;
+    padding: 50PX;
+    border-radius: 15px;
+    margin-bottom: 30px;;
+}
+
+.header-text {
+    text-align: justify;
+    padding: 50px;
+    
+}
+
+.header-text h1{
+    font-size: 48px;
+    font-weight:bolder
+}
+
+.logo {
+    width: 300px;
+    margin-right: 200PX;
+}

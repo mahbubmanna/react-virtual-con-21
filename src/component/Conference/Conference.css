@@ -1,0 +1,15 @@
+.conference-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    grid-column-gap: 10px;
+    margin-bottom: 20px;
+}
+
+.cart-container {
+    margin-left: 20px;
+    border-radius: 5px;
+    height: 600px;
+    color: white;
+    /* background-image: linear-gradient(to bottom right, rgb(173, 187, 231), #f7f7f7); */
+    text-align: left;
+}
